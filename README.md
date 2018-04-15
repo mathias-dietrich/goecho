@@ -3,7 +3,7 @@ simple tcp socket listener echos back to all connected clients
 
 author: mathias.dietrich@devops.ooo
 
-Listents on TCP  port 2000 
+Listents on TCP port 2000 
 
 
 Git
