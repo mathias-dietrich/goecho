@@ -43,3 +43,6 @@ docker images
 
 docker run --rm -p 2000:2000 mathias-dietrich/goecho
 
+run as daemon:
+docker run -d --rm -p 2000:2000 mathias-dietrich/goecho
+
