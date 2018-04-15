@@ -3,7 +3,7 @@ simple tcp socket listener echos back to all connected clients
 
 author: mathias.dietrich@devops.ooo
 
-Listens on TCP port 2000 
+Listens on TCP port 2000, change port in echo.go
 
 
 Git
